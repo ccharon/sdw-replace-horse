@@ -7,5 +7,6 @@ install smapi and contentpatcher first
 ![horse](./%5BCP%5D%20Replace%20Horse/assets/horse.png)
 
 
+|                   |                 |
 |-------------------|-----------------|
 |![front](front.png)|![side](side.png)|
