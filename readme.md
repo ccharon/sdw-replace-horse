@@ -4,4 +4,4 @@ take the "[CP] Replace Horse" and put it in your stardew Valley mods directory
 
 install smapi and contentpatcher first
 
-![horse](./\[CP\] Replace Horse/assets/horse.png
+![horse]("./\[CP\] Replace Horse/assets/horse.png")
