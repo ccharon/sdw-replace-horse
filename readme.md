@@ -1,8 +1,9 @@
-# sdw horse replacement for someone at reddit
+# sdw horse replacement for Plus_Crazy_4252 at reddit
 
-take the "[CP] Replace Horse" and put it in your stardew Valley mods directory
+It was asked in [this Reddit Thread](https://www.reddit.com/r/StardewValley/comments/1jnxub0/this_has_been_haunting_me_for_3_years_since_may/)
 
-install smapi and contentpatcher first
+1. install smapi and contentpatcher first
+2. take the "[CP] Replace Horse" (or download the release zip and unpack) and put the directory in your [Stardew Valley Mods directory](https://stardewvalleywiki.com/Modding:Player_Guide/Getting_Started#Find_your_game_folder)
 
 | Front             | Side            |
 |-------------------|-----------------|
