@@ -8,3 +8,13 @@ It was asked in [this Reddit Thread](https://www.reddit.com/r/StardewValley/comm
 | Front             | Side            |
 |-------------------|-----------------|
 |![front](front.png)|![side](side.png)|
+
+
+
+## Sources and Tools
+I downloaded the original mod from Nexus Mods https://www.nexusmods.com/stardewvalley/mods/1314 which is an xnb Mod.
+
+Then I converted the horse.xnb to png via https://lybell-art.github.io/xnb-js/
+
+I modified the horse mod found here https://forums.stardewvalley.net/threads/how-to-make-a-mod-to-change-the-standard-horse.4295/ I removed the changed horse head, replaced the horse.png and some metadata. thats it.
+
