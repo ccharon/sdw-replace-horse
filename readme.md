@@ -1,4 +1,4 @@
-# sdw horse replacement for Plus_Crazy_4252 at reddit
+# Stardew Valley chonky seal, horse replacement for Plus_Crazy_4252 at reddit
 
 It was asked in [this Reddit Thread](https://www.reddit.com/r/StardewValley/comments/1jnxub0/this_has_been_haunting_me_for_3_years_since_may/)
 
