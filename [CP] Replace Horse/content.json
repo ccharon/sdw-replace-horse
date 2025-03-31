@@ -1,0 +1,12 @@
+{
+  "Format": "2.0.0",
+  "Changes": [
+  //loads the provided png in place of the original
+       {
+          "Action": "Load",
+          "Target": "Animals/horse",
+          "FromFile": "assets/horse.png",
+          "When": {"HasFile: assets/horse.png": "true"}
+       }
+    ]
+}

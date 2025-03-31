@@ -1,0 +1,11 @@
+{
+   "Name": "[CP] Replace the default horse",
+   "Author": "nukulartechniker",
+   "Version": "1.0.0",
+   "Description": "Replaces the default horse when the png is put in assets folder",
+   "UniqueID": "nukulartechniker.horsereplacer",
+   "MinimumApiVersion": "3.0",
+   "ContentPackFor": {
+      "UniqueID": "Pathoschild.ContentPatcher"
+   }
+}
